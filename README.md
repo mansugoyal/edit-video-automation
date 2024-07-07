@@ -1,2 +1,14 @@
-# edit-video-automation
-The edit-video-automation repository in Python is intended to automate the process of editing videos. It will likely include features such as: Video Importing, Video Editing Tools, Audio Editing, Exporting Options, Automation Scripts: Automating repetitive tasks and batch processing multiple videos.
+# MoviePy Project
+
+## Description
+A project demonstrating video processing using MoviePy.
+
+## Setup
+
+1. Create and activate a virtual environment:
+   ```sh
+   python -m venv venv
+   source venv/bin/activate  # On Windows, use `venv\Scripts\activate`
+2. Install the required packages:
+    pip install -r requirements.txt
+3. Place your video files in the data/ directory.
